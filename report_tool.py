@@ -95,9 +95,6 @@ class ReportToolGUI:
         self.progress_bar = ttk.Progressbar(self.master, orient='horizontal', length=300, mode='determinate')
         self.progress_bar.pack(pady=10)
         
-        # حقوقي
-self.channel_info_label = ttk.Label(self.master, text="للمزيد من المعلومات، تابع قناتي على تيليجرام: https://t.me/Master_X_Cha", font=("Arial", 10))
-self.channel_info_label.pack(pady=10)
 
     def set_language(self, lang):
         """تغيير اللغة"""
