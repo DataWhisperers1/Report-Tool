@@ -353,3 +353,5 @@ def run_report_tool():
 # تشغيل الأداة
 if __name__ == "__main__":
     run_report_tool()
+
+#جميع الحقوقة محفوظة الى t.me/Master_X_Cha
